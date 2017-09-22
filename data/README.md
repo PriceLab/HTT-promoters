@@ -1,4 +1,4 @@
-*** all data obtained from whovian on 18 sep 2017
+## all data obtained from whovian on 18 sep 2017
 
    these files were apparently obtained from the Allen Brain Atlas in
    December of 2015
